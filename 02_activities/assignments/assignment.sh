@@ -1,6 +1,8 @@
 #!/bin/bash
 set -x
 
+Activity.txt changes that "I attempt to make a change" 
+
 ############################################
 # DSI CONSULTING INC. Project setup script #
 ############################################
